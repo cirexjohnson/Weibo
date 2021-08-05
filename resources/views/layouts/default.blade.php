@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>@yield('title', 'Weibo App') - Laravel 新手入门教程</title>
+    <title>@yield('title', 'Weibo App') - Cirex的尝试</title>
   </head>
   <body>
     @yield('content')
